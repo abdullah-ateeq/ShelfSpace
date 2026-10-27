@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ShelfSpace</string>
+    <string name="app_subtitle">Calculate usable shelf and storage space.</string>
+</resources>
